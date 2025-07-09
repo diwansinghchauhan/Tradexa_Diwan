@@ -19,7 +19,7 @@ Predicted **3YrReturn%:** 19.29%
 ## 3. Visualizations
 
 ### Distribution of 3-Year Returns
-![Distribution of 3YrReturn%](dist_3yrreturn.png)
+<img width="1580" height="1014" alt="Image" src="https://github.com/user-attachments/assets/78a5852e-d3dd-406e-8007-511c90f3776e" />
 
 ### 3-Year Returns by Risk Category
 ![3YrReturn% by Risk](boxplot_risk_3yrreturn.png)
