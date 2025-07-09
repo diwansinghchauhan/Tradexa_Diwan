@@ -22,4 +22,4 @@ Predicted **3YrReturn%:** 19.29%
 <img width="1580" height="1014" alt="Image" src="https://github.com/user-attachments/assets/78a5852e-d3dd-406e-8007-511c90f3776e" />
 
 ### 3-Year Returns by Risk Category
-![3YrReturn% by Risk](boxplot_risk_3yrreturn.png)
+<img width="1580" height="1014" alt="Image" src="https://github.com/user-attachments/assets/d0b40e83-9e7a-4ab7-b8a0-4ab968fb2888" />
